@@ -18,7 +18,7 @@
 ### Research Interests
 ```
 1. Cognitive Modeling with Deep Learning
-2. NeuroImage
+2. NeuroImage and Processing Tools Develop (in Python)
 3. Working Memory and Attention
 4. Natural Language Processing
 ```
