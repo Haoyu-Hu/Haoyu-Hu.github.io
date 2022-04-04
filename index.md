@@ -25,7 +25,7 @@
 
 ### Research Experience & Project Outcome
 
-I have the experience and skills of building neural network model, designing psycholoical experiment and analyzing data using various tools. Details can be seen in <a href="/Project">Project Page</a>
+I have the experience and skills of building neural network model, designing psycholoical experiment and analyzing data using various tools. Details can be seen in <a href="https://haoyu-hu.github.io/Project_new">Project Page</a>
 
 ### Academic Activities
 
