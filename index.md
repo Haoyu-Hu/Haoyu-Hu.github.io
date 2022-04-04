@@ -16,21 +16,28 @@
 </table>
 
 ### Research Interests
-
-```markdown
+```
 1. Cognitive Modeling with Deep Learning
 2. NeuroImage
 3. Working Memory and Attention
 4. Natural Language Processing
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
 ### Research Experience & Project Outcome
 
-I have the experience and skills of building neural network model, designing psycholoical experiment and analyzing data using various tools. Details can be seen in [Project Website](index-proj.md)
+I have the experience and skills of building neural network model, designing psycholoical experiment and analyzing data using various tools. Details can be seen in [Project Website](index_Proj.md)
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Haoyu-Hu/Haoyu-Hu.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Academic Activities
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+```markdown
+1. Co-founder of Univeron – an multi-universities journal club, focusing on all aspects of brain science, like neurobiology,
+computational neuroscience, neural technology, psychology, psychiatry and so on.
+[homepage](https://univeron.notion.site/univeron/Univeron-76ad788f215440b59b1ee1e369b9ca8d)
+2. NeuroImage
+3. Working Memory and Attention
+4. Natural Language Processing
+```
+
+### CV
+Download it [here](Haoyu_Hu_CV_.pdf)
