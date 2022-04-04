@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Haoyu Hu's Personal Homepage
 
 You can use the [editor on GitHub](https://github.com/Haoyu-Hu/Haoyu-Hu.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
