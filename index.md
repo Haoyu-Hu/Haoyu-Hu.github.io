@@ -4,7 +4,7 @@
   <tr>
     <td width="80%">
       <h1>Haoyu Hu</h1>
-      <p><b>Undergraduate,  GPA: 3.92/4</b></p>
+      <p><b>Undergraduate (Junior),  GPA: 3.92/4</b></p>
       <p><b>Department of Psychology and Behavior Science, Zhejiang University</b></p>
       <p><b>E-mail: <a href="mailto: huhaoyu81@gmail.com">huhaoyu81@gmail.com</a> / <a href="mailto: haoyuh@zju.edu.cn">haoyuh@zju.edu.cn</a></b></p>
       <p><b>Address: Hangzhou, Zhejiang Province, China</b></p>
