@@ -26,18 +26,18 @@
 ### Research Experience & Project Outcome
 
 I have the experience and skills of building neural network model, designing psycholoical experiment and analyzing data using various tools. Details can be seen in <a href="/index_Proj.html">Project Page</a>
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Haoyu-Hu/Haoyu-Hu.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Academic Activities
 
-```markdown
-1. Co-founder of Univeron – an multi-universities journal club, focusing on all aspects of brain science, like neurobiology,
+<dl>
+<dd>1. Co-founder of Univeron – an multi-universities journal club, focusing on all aspects of brain science, like neurobiology,
 computational neuroscience, neural technology, psychology, psychiatry and so on.
-[homepage](https://univeron.notion.site/univeron/Univeron-76ad788f215440b59b1ee1e369b9ca8d)
-2. NeuroImage
-3. Working Memory and Attention
-4. Natural Language Processing
-```
+  <a href="https://univeron.notion.site/univeron/Univeron-76ad788f215440b59b1ee1e369b9ca8d">HomePage (in Chinese)</a> </dd>
+<dd>2. One of the participants in the Neurodynamics Reading Group – mainly focus on exchanging knowledge about
+neurodynamics and advance science</dd>
+<dd>3. One of the participants in the ZJU NLP Rookies, a club built to promote the exchange of scientific research on
+technologies related to natural language processing</dd>
+</dl>
 
 ### CV
 Download it [here](Haoyu_Hu_CV_.pdf)
