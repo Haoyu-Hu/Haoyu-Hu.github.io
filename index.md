@@ -4,24 +4,24 @@ You can use the [editor on GitHub](https://github.com/Haoyu-Hu/Haoyu-Hu.github.i
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
 <table border="0">
   <tr>
     <td width="75%">
-      <h1>张三</h1>
-      <p><b>硕士研究生</b></p>
-      <p><b>××大学××学院</b></p>
-      <p><b>邮箱：1234567789@qq.com</b></p>
-      <p><b>地址：××市××区××路××号××大学，××楼，邮编×××</b></p>
+      <h1>Haoyu Hu</h1>
+      <p><b>Undergraduate</b></p>
+      <p><b>Department of Psychology and Behavior Science, Zhejiang University</b></p>
+      <p><b>E-mail: huhaoyu81@gmail.com/haoyuh@zju.edu.cn</b></p>
+      <p><b>Address: Hangzhou, Zhejiang Province, China</b></p>
     </td>
     <td width="25%">
-      <img src="/zhengjianzhao.jpg" width="100%">      % 插入证件照代码
+      <img src="/photo_self.jpg" width="100%">  
     </td>
   </tr>
 </table>
+
+### Markdown
+
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 
 ```markdown
