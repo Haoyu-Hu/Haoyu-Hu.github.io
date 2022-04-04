@@ -25,7 +25,7 @@
 
 ### Research Experience & Project Outcome
 
-I have the experience and skills of building neural network model, designing psycholoical experiment and analyzing data using various tools. Details can be seen in [Project Website](/main/index_Proj.md)
+I have the experience and skills of building neural network model, designing psycholoical experiment and analyzing data using various tools. Details can be seen in [Project Website](/index_Proj.md)
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Haoyu-Hu/Haoyu-Hu.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Academic Activities
