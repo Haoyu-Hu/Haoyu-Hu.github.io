@@ -10,7 +10,7 @@
       <p><b>Address: Hangzhou, Zhejiang Province, China</b></p>
     </td>
     <td width="20%">
-      <img src="/self_photo.jpg" width="100%">  
+      <img src="https://github.com/Haoyu-Hu/Haoyu-Hu.github.io/raw/main/self_photo.jpg" width="100%">  
     </td>
   </tr>
 </table>
