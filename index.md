@@ -10,7 +10,7 @@
       <p><b>Address: Hangzhou, Zhejiang Province, China</b></p>
     </td>
     <td width="20%">
-      <img src="/photo_self_2.jpg" width="100%">  
+      <img src="/self_photo.jpg" width="100%">  
     </td>
   </tr>
 </table>
