@@ -4,7 +4,7 @@
   <tr>
     <td width="80%">
       <h1>Haoyu Hu</h1>
-      <p><b>Undergraduate (Junior),  GPA: 3.92/4</b></p>
+      <p><b>Undergraduate (Junior, expected graduation in 2023),  GPA: 3.92/4 (rank 3<sup>rd</sup> in the major)</b></p>
       <p><b>Department of Psychology and Behavior Science, Zhejiang University</b></p>
       <p><b>E-mail: <a href="mailto: huhaoyu81@gmail.com">huhaoyu81@gmail.com</a> / <a href="mailto: haoyuh@zju.edu.cn">haoyuh@zju.edu.cn</a></b></p>
       <p><b>Address: Hangzhou, Zhejiang Province, China</b></p>
@@ -25,7 +25,7 @@
 
 ### Research Experience & Project Outcome
 
-I have the experience and skills of building neural network model, designing psycholoical experiment and analyzing data using various tools. Details can be seen in <a href="https://haoyu-hu.github.io/Project">Project Page</a>
+I have the experience and skills of building neural network model, designing psycholoical experiment and analyzing data using various tools. <b>Details can be seen in <a href="https://haoyu-hu.github.io/Project">Project Page</a></b>
 
 ### Academic Activities
 
