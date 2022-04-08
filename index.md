@@ -33,7 +33,7 @@ I have the experience and skills of building neural network model, designing psy
 <dd>3. Use neural network and transfer learning method to explore brain image segement</dd>
 <dd>4. Apply PointNet-related algorithm to develop an accurate TMS system (participant responsible for the deep learning algorithm)</dd>
 </dl>
-<p><b><b>Details can be seen in <a href="https://haoyu-hu.github.io/Project">Project Page</a></b></b></p>
+<p><b><b>Details (only leading projects) can be seen in <a href="https://haoyu-hu.github.io/Project">Project Page</a></b></b></p>
 
 ### Academic Activities
 
