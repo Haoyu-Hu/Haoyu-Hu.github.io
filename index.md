@@ -26,7 +26,14 @@
 
 ### Research Experience & Project Outcome
 
-I have the experience and skills of building neural network model, designing psycholoical experiment and analyzing data using various tools. <b><b>Details can be seen in <a href="https://haoyu-hu.github.io/Project">Project Page</a></b></b>
+I have the experience and skills of building neural network model, designing psycholoical experiment and analyzing data using various tools. I've led some projects including:
+<dl>
+<dd>1. Apply machine methods to big neuroimage data to explore brain asymmetry</dd>
+<dd>2. Use visual search task to explore the relationship between working memory and attention</dd>
+<dd>3. Use neural network and transfer learning method to explore brain image segement</dd>
+<dd>4. Apply PointNet-related algorithm to develop an accurate TMS system (participant responsible for the deep learning algorithm)</dd>
+</dl>
+<p><b><b>Details can be seen in <a href="https://haoyu-hu.github.io/Project">Project Page</a></b></b></p>
 
 ### Academic Activities
 
