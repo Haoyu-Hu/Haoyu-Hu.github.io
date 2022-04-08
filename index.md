@@ -25,7 +25,7 @@
 
 ### Research Experience & Project Outcome
 
-I have the experience and skills of building neural network model, designing psycholoical experiment and analyzing data using various tools. <b>Details can be seen in <a href="https://haoyu-hu.github.io/Project">Project Page</a></b>
+I have the experience and skills of building neural network model, designing psycholoical experiment and analyzing data using various tools. <b><b>Details can be seen in <a href="https://haoyu-hu.github.io/Project">Project Page</a></b></b>
 
 ### Academic Activities
 
@@ -40,4 +40,4 @@ technologies related to natural language processing</dd>
 </dl>
 
 ### CV
-Download it [here](Haoyu_Hu_CV_.pdf)
+Download it [here](Haoyu_Hu_CV.pdf)
