@@ -28,10 +28,11 @@
 
 I have the experience and skills of building neural network model, designing psycholoical experiment and analyzing data using various tools. I've led some projects including:
 <dl>
-<dd>1. Apply machine learning methods to big neuroimage data to explore brain asymmetry</dd>
-<dd>2. Use visual search task to explore the relationship between working memory and attention</dd>
-<dd>3. Use neural network and transfer learning method to explore brain image segement</dd>
-<dd>4. Apply PointNet-related algorithm to develop an accurate TMS system (participant responsible for the deep learning algorithm)</dd>
+<dd>1. Apply machine learning and causal inference methods to explore the benefits of drugs for patients</dd>
+<dd>2. Apply machine learning methods to big neuroimage data to explore brain asymmetry</dd>
+<dd>3. Use visual search task to explore the relationship between working memory and attention</dd>
+<dd>4. Use neural network and transfer learning method to explore brain image segement</dd>
+<dd>5. Apply PointNet-related algorithm to develop an accurate TMS system (participant responsible for the deep learning algorithm)</dd>
 </dl>
 <p><b><b>Details (only leading projects) can be seen in <a href="https://haoyu-hu.github.io/Project">Project Page</a></b></b></p>
 
