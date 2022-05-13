@@ -6,7 +6,7 @@
       <h1>Haoyu Hu</h1>
       <p><b>Undergraduate (Junior, expected graduation in 2023)</b></p>
       <p><b>GPA: 3.92/4 (rank 1/57 in the junior year in the psychology major (minor in artificial intelligence))</b></p>
-      <p><b>Department of Psychology and Behavior Science, Zhejiang University</b></p>
+      <p><b>CHU KoChen Honors College / Department of Psychology and Behavior Science, Zhejiang University</b></p>
       <p><b>E-mail: <a href="mailto: huhaoyu81@gmail.com">huhaoyu81@gmail.com</a> / <a href="mailto: haoyuh@zju.edu.cn">haoyuh@zju.edu.cn</a></b></p>
       <p><b>Address: Hangzhou, Zhejiang Province, China</b></p>
     </td>
