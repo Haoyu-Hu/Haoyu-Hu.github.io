@@ -50,4 +50,4 @@ technologies related to natural language processing</dd>
 </dl>
 
 ### CV
-Download it [here](Haoyu_Hu_CV_3ver.pdf)
+Download it [here](Haoyu_Hu_CV_git.pdf)
