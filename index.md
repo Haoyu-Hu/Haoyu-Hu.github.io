@@ -21,8 +21,8 @@
 1. Cognitive Modeling with Deep Learning
 2. NeuroImage and Processing Tools Develop (in Python)
 3. Combination of AI and Healthcare
-3. Working Memory and Attention
-4. Natural Language Processing
+4. Working Memory and Attention
+5. Data Mining
 ```
 
 ### Research Experience & Project Outcome
